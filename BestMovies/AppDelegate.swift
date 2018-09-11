@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BestMovies
 //
-//  Created by hackeru on 25 Elul 5778.
-//  Copyright © 5778 daniel. All rights reserved.
+//  Created by Daniel Merchasin on 11/09/2018
+//  Copyright © 2018 Daniel Merchasin. All rights reserved.
 //
 
 import UIKit
